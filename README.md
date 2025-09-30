@@ -1,4 +1,9 @@
 # 👋 Hi there, I’m Abdurahman
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdurahmanzerihun&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
+</p>
+
+---
 
 ## 🔥 Contribution Streaks
 <p align="center">
