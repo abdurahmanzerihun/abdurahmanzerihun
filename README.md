@@ -28,5 +28,5 @@
 ---
 
 <p align="center">
-  <b>⚡ One contribution at a time. One step closer every day. ⚡</b>
+  <b>⚡ One contribution.One step closer. ⚡</b>
 </p>
