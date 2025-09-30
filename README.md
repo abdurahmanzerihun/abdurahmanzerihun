@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Abdurahman
+# 👋 Hi there, I’m Abdurrahman
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdurahmanzerihun&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
@@ -6,7 +6,7 @@
 
 ---
 
-## 🔥 Contribution Streaks
+##  Contribution Streaks
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abdurahmanzerihun&theme=radical&hide_border=true&border_radius=15" alt="GitHub Streak" />
 </p>
