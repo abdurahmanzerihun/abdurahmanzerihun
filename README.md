@@ -1,11 +1,10 @@
-# 👋 Hi there, I’m Abdurahman
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdurahmanzerihun&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streaks
+## Contribution Streaks
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abdurahmanzerihun&theme=radical&hide_border=true&border_radius=15" alt="GitHub Streak" />
 </p>
@@ -28,5 +27,5 @@
 ---
 
 <p align="center">
-  <b>⚡ One commit at a time. One step closer every day. ⚡</b>
+  <b>⚡ One commit. One step closer. ⚡</b>
 </p>
