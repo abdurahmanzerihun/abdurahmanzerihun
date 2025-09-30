@@ -6,7 +6,7 @@
 
 ##  Contribution Streaks
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdurahmanzerihun&theme=radical&hide_border=true&border_radius=15" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdurahmanzerihun&theme=radical&hide_border=true&border_radius=15&count_private=true&include_all_commits=true&cache_seconds=0" alt="GitHub Streak" />
 </p>
 
 ---
