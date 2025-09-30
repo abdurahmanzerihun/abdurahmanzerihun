@@ -14,8 +14,11 @@
 ## 📊 GitHub Contributions & Pull Requests
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdurahmanzerihun&theme=radical" alt="Total Contributions & Grade" />
+  <br>
+  <b>Total Contributions: 2025</b>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdurahmanzerihun&theme=radical&utcOffset=3" alt="Pull Requests" />
 </p>
+
 
 ---
 
