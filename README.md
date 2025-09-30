@@ -1,5 +1,3 @@
-# 👋 Hi there, I’m Abdurrahman
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdurahmanzerihun&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
 </p>
@@ -15,7 +13,7 @@
 
 ## 📊 GitHub Stats 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdurahmanzerihun&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide=followers,repos" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdurahmanzerihun&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide=followers,repos"&cache_seconds=0" alt="GitHub Stats" />
 </p>
 
 ---
