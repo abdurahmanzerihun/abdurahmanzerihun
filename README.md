@@ -13,7 +13,7 @@
 
 ## 📊 GitHub Stats 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdurahmanzerihun&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide=followers,repos&cache_seconds=0&t=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdurahmanzerihun&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide=followers,repos&cache_seconds=0&t=2" alt="GitHub Stats" />
 </p>
 
 ---
