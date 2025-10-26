@@ -4,7 +4,7 @@
 
 ---
 
-##  Contribution Streaks
+## 🚀 Contribution Streaks
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abdurahmanzerihun&theme=radical&hide_border=true&border_radius=15&count_private=true&include_all_commits=true&cache_seconds=0" alt="GitHub Streak" />
 </p>
@@ -19,5 +19,16 @@
 ---
 
 <p align="center">
-  <b>⚡ One contribution.One step closer. ⚡</b>
+  <b>⚡ One contribution. One step closer.⚡</b>
 </p>
+
+---
+
+### 🌟 Quick Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdurahmanzerihun&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&border_radius=15" alt="GitHub Stats" />
+</p>
+
+
+
+
