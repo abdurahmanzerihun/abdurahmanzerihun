@@ -18,17 +18,16 @@
 
 ---
 
-<p align="center">
-  <b>⚡ One contribution. One step closer.⚡</b>
-</p>
-
----
-
 ### 🌟 Quick Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdurahmanzerihun&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&border_radius=15" alt="GitHub Stats" />
 </p>
 
+---
+
+<p align="center">
+  <b>⚡ One contribution. One step closer.⚡</b>
+</p>
 
 
 
