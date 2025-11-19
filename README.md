@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <b>⚡ One contribution.One step closer.⚡</b>
+  <b>⚡ One commit.One step closer.⚡</b>
 </p>
 
 
