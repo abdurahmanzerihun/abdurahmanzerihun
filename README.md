@@ -1,22 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdurahman</h1>
 
 <p align="center">
-  💻 Computer Science Student • Backend Developer <br>
-  Building real-world web applications and learning in public.
+  💻 Computer Science Student(GC) • Backend Developer <br>
+  Building real-world web applications.
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdurahmanzerihun&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
-</p>
-
----
-
-## About Me
-
-- 💻 Computer Science Student(GC)
-- 🌱 Currently focused on becoming a Backend Developer
-- 📦 Building **EkaTrack (እቃTrack)** - a Stock Management System for small businesses
-- ⚙️ Learning scalable backend systems, software architecture, and TypeScript
 
 ---
 
@@ -54,15 +41,15 @@
 # Connect With Me
 
 <p>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/abdurahmanz">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:abdurrahmanzerihun@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="YOUR_TELEGRAM_CHANNEL">
+<a href="https://t.me/abdurahman_zerihun">
 <img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 </p>
@@ -93,6 +80,3 @@
 
 ---
 
-<p align="center">
-  <b>⚡ One commit. One step closer. 🚀</b>
-</p>
