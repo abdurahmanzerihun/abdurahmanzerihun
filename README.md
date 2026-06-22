@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdurahman</h1>
 
 <p align="center">
-  💻 Computer Science Student(GC) • Backend Developer <br>
+  💻 Computer Science Student(GC) <br>
   Building real-world web applications.
 </p>
 
