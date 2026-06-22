@@ -7,7 +7,7 @@
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 <p align="left">
 
@@ -38,19 +38,20 @@
 
 ---
 
-# Connect With Me
+## 🌍 Connect With Me
 
-<p>
-<a href="https://www.linkedin.com/in/abdurahmanz">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<p align="left">
+
+<a href="https://www.linkedin.com/in/abdurahmanz" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:abdurrahmanzerihun@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://t.me/abdurahman_zerihun">
-<img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 </p>
 
@@ -64,7 +65,7 @@
 
 ---
 
-# Contribution Streak
+## Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abdurahmanzerihun&theme=radical&hide_border=true" />
@@ -72,7 +73,7 @@
 
 ---
 
-# Most Used Languages
+## Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurahmanzerihun&layout=compact&theme=radical&hide_border=true" />
